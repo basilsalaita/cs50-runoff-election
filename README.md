@@ -10,5 +10,7 @@ The program records voter preferences, tabulates votes, eliminates candidates wi
 - Data Structures
 - Problem Solving
 
-## About
-Developed as part of Harvard's CS50 Introduction to Computer Science.
+## Development Notes
+This project was developed as part of Harvard's CS50 course. 
+AI tools were occasionally used to assist with debugging and 
+clarifying programming concepts during development.
